@@ -1,0 +1,8 @@
+test*
+*-env
+instacart*
+_EDA.ipynb
+_*
+node_modules/
+-*lock.json
+*env
